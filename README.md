@@ -2,7 +2,9 @@
 Python Implementation for Task Scheduling Algorithms ( FCFS, RR, EDF, LST, RMA, DMA ) as well as accumulative utility test and Completion-time test using Tkinter for GUI   
 
 ## Get Started
- run ```python main.py``` to start the GUI
+ run ```python main.py``` to start the GUI   
+    
+ <img src="https://github.com/CSEMN/TaskSchedulingAlgorithms/blob/main/exmaple1.png" width=70%>
 
 ### Supported Algorithms
 1. FCFS : First come First Serve
